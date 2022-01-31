@@ -4,3 +4,8 @@ I have graduated from Istanbul Technical University in January 2019. I started w
 
 - I’m currently working on SoftwareONE Turkey
 - [Curriculum vitae, the path of my life (**LinkedIn**)](https://linkedin.com/in/tayyiposmanoglu/)
+
+<details>
+  <summary>More...</summary>
+  <img src="https://github-readme-stats.vercel.app/api?username=tayyiposmanoglu&show_icons=true&count_private=true&theme=dark" />
+</details>
